@@ -54,7 +54,7 @@ h1 {
 #navbar {
     height: 35px;
     padding: 20px 0px 15px 20px;
-    display: flex;
+    display: inline;
     align-items: center;
     font-weight: 500;
 }
